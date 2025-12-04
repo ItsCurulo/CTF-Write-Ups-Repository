@@ -25,18 +25,6 @@ Cada write-up sigue un formato claro e incluye:
 
 ---
 
-## 🗂️ Estructura del repositorio
-📁 CTF-Writeups
- ├── 🧩 Plataforma-1
- │     ├── Reto-1.md
- │     ├── Reto-2.md
- │     └── ...
- ├── 🎯 Plataforma-2
- │     ├── Reto-1.md
- │     └── ...
- └── 📘 Recursos
-       └── notas.md
-
 ## 🧠 Objetivo del proyecto
 
 - Mejorar mi capacidad de análisis y documentación técnica.  
