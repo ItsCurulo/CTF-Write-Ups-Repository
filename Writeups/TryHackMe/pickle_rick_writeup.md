@@ -39,7 +39,13 @@ Puertos encontrados: - **22/tcp --- SSH** - **80/tcp --- HTTP**
 Se revisa la página web y el código fuente.\
 En un comentario se encuentra un **usuario**.
 
-R1ckRul3s
+<details>
+<summary>User: </summary>
+
+`R1ckRul3s`
+
+</details>
+
 
 ------------------------------------------------------------------------
 
@@ -137,10 +143,26 @@ En `/root/` se encuentra el **tercer ingrediente**.
 ------------------------------------------------------------------------
 
 ## 🗝️ Flags / resultados
+ 
+<details>
+<summary>Ingrediente 1: </summary>
 
--   **Ingrediente 1:** `mr.meeseek hair`
--   **Ingrediente 2:** `1 jerry tear`
--   **Ingrediente 3:** `fleeb juice`
+`mr.meeseek hair`
+
+</details>
+<details>
+<summary>Ingrediente 2: </summary>
+
+`1 jerry tear`
+
+</details>
+<details>
+<summary>Ingrediente 3:</summary>
+    
+ `fleeb juice`
+ 
+</details>
+
 
 ------------------------------------------------------------------------
 
