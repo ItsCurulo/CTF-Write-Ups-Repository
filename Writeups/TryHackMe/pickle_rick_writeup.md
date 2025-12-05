@@ -1,4 +1,4 @@
-# 🥒 Pickle Rick --- TryHackMe! [alt text](image.png)
+# 🥒 Pickle Rick --- TryHackMe! 
 
 ------------------------------------------------------------------------
 
