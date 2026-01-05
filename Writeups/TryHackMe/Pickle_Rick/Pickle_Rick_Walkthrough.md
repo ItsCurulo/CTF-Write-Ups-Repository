@@ -1,4 +1,6 @@
 # Pickle Rick - TryHackMe Walkthrough
+**Room URL:** [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick)
+
 **By Curulo**
 
 ---

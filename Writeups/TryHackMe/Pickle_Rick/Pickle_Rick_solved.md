@@ -1,4 +1,6 @@
 # 🥒 Pickle Rick - TryHackMe Write-up (Edición "Rick, soy un pepinillo!")
+**Room URL:** [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick)
+
 **Por Curulo** (El Rick más Rick de todos los Ricks)
 
 ---
@@ -99,7 +101,7 @@ Nos paseamos por `/home/rick/`. Ahí está el segundo ingrediente.
 
 ---
 
-## 👑 Escalada de Privilegios: "¡Mírame, soy Dios!"
+## 👑 Escalada de Privilegios
 
 ### 5. Tercer Ingrediente
 Probamos el comando mágico:
